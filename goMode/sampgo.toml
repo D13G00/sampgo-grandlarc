@@ -1,0 +1,11 @@
+[global]
+  sampctl = true
+
+[author]
+  user = "ImOver00"
+  repo = "sampgo-granclarc"
+
+[package]
+  name = "grandlarc"
+  input = "main.go"
+  output = "../plugins/grandlarc.dll"

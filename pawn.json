@@ -1,0 +1,14 @@
+{
+	"user": "ImOver00",
+	"repo": "grandlarc",
+	"entry": "gamemodes/entry.pwn",
+	"output": "gamemodes/entry.amx",
+	"local": true,
+	"runtime": {
+		"mode": "y_testing",
+		"port": 7777,
+		"extra": {
+			"plugins": "grandlarc"
+		}
+	}
+}

@@ -3,9 +3,9 @@
 
 [author]
   user = "ImOver00"
-  repo = "sampgo-granclarc"
+  repo = "sampgo-grandlarc"
 
 [package]
-  name = "grandlarc"
+  name = "Grandlarc"
   input = "main.go"
   output = "../plugins/grandlarc.dll"
